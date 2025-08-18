@@ -280,11 +280,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
-  <p>Built with ❤️ by the MockMate team</p>
-  <p>
-    <a href="https://github.com/yourusername/mockmate">⭐ Star us on GitHub</a> •
-    <a href="https://twitter.com/mockmate">🐦 Follow on Twitter</a> •
-    <a href="https://mockmate.ai">🌐 Visit Website</a>
-  </p>
-</div>
+ 
