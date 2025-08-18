@@ -229,11 +229,7 @@ The app can be deployed on any platform supporting Next.js:
 4. **Get Feedback**: Receive detailed performance analysis
 5. **Track Progress**: Review past interviews and improvements
 
-### For Recruiters/Companies
-- Use the platform to standardize interview processes
-- Generate consistent evaluation criteria
-- Track candidate performance over time
-- Customize questions for specific roles
+ 
 
 ## 🤝 Contributing
 
@@ -251,15 +247,7 @@ We welcome contributions! Please follow these steps:
 - Add tests for new features
 - Update documentation as needed
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **Documentation**: Check our [Wiki](https://github.com/yourusername/mockmate/wiki)
-- **Issues**: Report bugs on [GitHub Issues](https://github.com/yourusername/mockmate/issues)
-- **Discussions**: Join our [GitHub Discussions](https://github.com/yourusername/mockmate/discussions)
 
 ## 🙏 Acknowledgments
 
@@ -275,7 +263,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Team Interviews** - Multi-interviewer scenarios
 - [ ] **Industry-Specific Templates** - Pre-built interview templates for different industries
 - [ ] **Analytics Dashboard** - Advanced analytics for performance tracking
-- [ ] **Mobile App** - Native mobile applications
 - [ ] **Integration APIs** - APIs for third-party integrations
 
 ---
